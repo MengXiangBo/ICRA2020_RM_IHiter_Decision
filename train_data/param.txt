@@ -1,0 +1,6 @@
+learning rate : 0.01
+ReplaceTargetIter1000
+BatchSize64
+Epsilon0.98
+EpsilonMin : 0.1
+Gamma0.9
